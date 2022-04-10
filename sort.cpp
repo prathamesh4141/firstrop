@@ -45,7 +45,6 @@ int main()
 	}
 	inf.close();
 	getch();
-	return 0;
 	printf("hello world);
 }
 
